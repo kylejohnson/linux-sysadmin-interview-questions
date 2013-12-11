@@ -119,3 +119,5 @@
 51.	What type of packet to discover a router? 
 
 52.	How does traceroute work?
+
+53.	A careless sysadmin executes the following command: ```chmod -x chmod``` - what do you do to fix this?
