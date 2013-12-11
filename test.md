@@ -1,4 +1,4 @@
-1.	"Using the OSI model, which layer has the responsibility of making sure that the packet gets where it is supposed to go?
+1.	Using the OSI model, which layer has the responsibility of making sure that the packet gets where it is supposed to go?
 
 2.	What is the subnet mask, network address and broadcast address for the following address: 123.65.47.62/22?
 
