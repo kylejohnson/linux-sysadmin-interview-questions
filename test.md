@@ -1,11 +1,6 @@
 1.	"Using the OSI model, which layer has the responsibility of making sure that the packet gets where it is supposed to go?
 
-2.	Using the following IP address: 123.65.47.62/22
-a.	What is the subnet mask for this IP address?
-
-b.	What is the network address for this IP?
-
-c.	What is the broadcast address for this IP?
+2.	What is the subnet mask, network address and broadcast address for the following address: 123.65.47.62/22?
 
 3.	What command is used to show all open ports and/or socket connections on a machine?
 
@@ -23,39 +18,37 @@ c.	What is the broadcast address for this IP?
 
 10.	What command is used to show the route table for a machine?
 
-11.	What is "asynchronous routing"?
-
+11. Explain asynchronous routing?
 
 12.	What is the purpose of a default gateway?
 
-13.	A TCP connection on a network can be uniquely defined by 4 things.  What are those things? 
+13.	A TCP connection on a network can be uniquely defined by 4 things.  What are those things?
+
 14.	When a client running a web browser connects to a web server, what is the source port of the connection?
 
 15.	What is the destination port of the connection?
 
 16.	What is SMTP?
 
-a.	What is an SMTP relay?
+16.	What is an SMTP relay?
 
-b.	Give the basic scenario of how a mail message is delivered via SMTP
-
+16.	Give the basic scenario of how a mail message is delivered via SMTP
 
 17.	What function does DNS play on a network?
 
-a.	What is an A record?
+17.	What is an A record?
 
-b.	What is an NS record?
+17.	What is an NS record?
 
-c.	What is an MX record?
+17.	What is an MX record?
 
+17.	What is a PTR record?
 
-d.	What is a PTR record?
+17.	What is a DNS forwarder?
 
-e.	What is a DNS forwarder?
+17.	What command is used to lookup DNS records?
 
-f.	What command is used to lookup DNS records?
-
-g.	What is meant by "Reverse Lookup"?
+17.	What is meant by "Reverse Lookup"?
 
 18.	What is LDAP and what is it used for?
 
@@ -79,7 +72,7 @@ g.	What is meant by "Reverse Lookup"?
 
 28.	What command will show the available disk space on the Unix/Linux system?
 
-29.	"How do you determine the IP address of a Unix/Linux system from the command line?
+29.	How do you determine the public and prive IP addresses, if applicable, of a Unix/Linux system from the command line?
 
 30.	What Unix/Linux command will alter a file's ownership?
 
